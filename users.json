@@ -26,5 +26,12 @@
 		"email": "juanito@gmail.com",
 		"edad": 55,
 		"sexo": "H"
+	},
+	{
+		"id": 5,
+		"name": "Juan",
+		"email": "juanito@gmail.com",
+		"edad": 55,
+		"sexo": "H"
 	}
 ]
